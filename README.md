@@ -41,7 +41,7 @@
     <h2>About me</h2>
     <ul style='list-style: none;'>
       <li> ⚖️ Former international tax counsel in big 4 companies</li>
-      <li> 🎯 I’m currently looking for an apprenticeship as Fullstack Web Developer</li>
+      <li> 🎯 I’m currently looking for an apprenticeship as Fullstack Web & Mobile Developer</li>
       <li> 📖 While learning Frontend Development with <a href="https://skillsbuild.org/adult-learners/explore-learning/web-developer">IBM</a> & UX/UI Design with <a href="https://careerfoundry.com/en/courses/become-a-ux-designer/">CareerFoundry</a></li>
       <li> 💬 Ask me about Fitness, <a href="https://diablo4.blizzard.com/">Diablo</a> or other stuff</li>
     </ul>
